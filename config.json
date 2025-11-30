@@ -1,0 +1,5 @@
+{
+  "current_state_path": "data.txt",
+  "snapshot_path": "snapshots.txt",
+  "snapshot_interval_sec": 300
+}
